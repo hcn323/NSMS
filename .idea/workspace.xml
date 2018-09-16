@@ -227,9 +227,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1073" />
-    <option name="y" value="354" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="328" />
+    <option name="y" value="131" />
     <option name="width" value="980" />
     <option name="height" value="1093" />
   </component>
@@ -433,18 +433,17 @@
       <workItem from="1536924086207" duration="8170000" />
       <workItem from="1536995995981" duration="7143000" />
       <workItem from="1537025883089" duration="490000" />
-      <workItem from="1537094552554" duration="596000" />
+      <workItem from="1537094552554" duration="629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23101000" />
+    <option name="totallyTimeSpent" value="23134000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1563" height="886" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1563" height="886" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13687707" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13687707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -460,7 +459,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32891247" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.328877" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
